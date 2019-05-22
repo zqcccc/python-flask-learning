@@ -1,1 +1,1 @@
-all learn from https://github.com/nnja/python
+all learn from https://github.com/nnja/python with [Nina](https://twitter.com/nnja)
